@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/apps.js
 
 Feather needs your own signing certificate and provisioning profile before it can install the app. An unsigned IPA cannot be installed directly. The app is for authorized school staff; the public feed does not grant access to its protected backend.
 
-The source metadata is generated from `ipas/VisitorConnect-unsigned.ipa` by `update-source.py`. The source project's `Mirror Codemagic iPad IPA` GitHub workflow replaces that IPA and regenerates `apps.json` after each successful Codemagic build on `main`. The workflow uses a write-enabled deploy key limited to this repository.
+The source project's `Mirror Codemagic iPad IPA` GitHub workflow replaces `ipas/VisitorConnect-unsigned.ipa` and regenerates `apps.json` after each successful Codemagic build on `main`. The generator stays in the private source project; this feed contains only public release files. The workflow uses a write-enabled deploy key limited to this repository.
