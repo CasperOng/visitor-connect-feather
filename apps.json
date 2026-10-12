@@ -1,0 +1,36 @@
+{
+  "name": "Visitor Connect",
+  "subtitle": "Open Day iPad companion",
+  "description": "Unsigned Visitor Connect builds for signing with Feather.",
+  "iconURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/icons/VisitorConnect.png",
+  "tintColor": "#315FD5",
+  "apps": [
+    {
+      "name": "Visitor Connect",
+      "bundleIdentifier": "com.casperong.visitorconnect",
+      "developerName": "Casper Ong",
+      "subtitle": "Open Day check-in",
+      "localizedDescription": "Staff check-in companion for the school's information day.",
+      "iconURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/icons/VisitorConnect.png",
+      "tintColor": "#315FD5",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan visitor QR passes at entrance check-in."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-12",
+          "localizedDescription": "Codemagic build",
+          "downloadURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/ipas/VisitorConnect-unsigned.ipa",
+          "size": 528584,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
