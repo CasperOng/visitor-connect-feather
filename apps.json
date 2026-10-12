@@ -23,7 +23,7 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1",
+          "buildVersion": "6",
           "date": "2026-10-12",
           "localizedDescription": "Codemagic build",
           "downloadURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/ipas/VisitorConnect-unsigned.ipa",
