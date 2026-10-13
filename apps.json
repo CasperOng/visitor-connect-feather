@@ -22,12 +22,12 @@
       },
       "versions": [
         {
-          "version": "1.0.32",
-          "buildVersion": "32",
+          "version": "1.0.34",
+          "buildVersion": "34",
           "date": "2026-10-13",
-          "localizedDescription": "Version 1.0.32 (build 32) · Codemagic",
-          "downloadURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/ipas/VisitorConnect-unsigned.ipa?version=1.0.32&build=32",
-          "size": 669875,
+          "localizedDescription": "Version 1.0.34 (build 34) · Codemagic",
+          "downloadURL": "https://raw.githubusercontent.com/CasperOng/visitor-connect-feather/main/ipas/VisitorConnect-unsigned.ipa?version=1.0.34&build=34",
+          "size": 670316,
           "minOSVersion": "17.0"
         }
       ]
