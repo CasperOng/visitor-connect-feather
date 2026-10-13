@@ -1,8 +1,8 @@
 # Latest Visitor Connect build
 
-Version: **1.0.12**
+Version: **1.0.14**
 
-Build: **12**
+Build: **14**
 
 Published (UTC): 2026-10-13
 
